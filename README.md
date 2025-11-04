@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=DERRICHE%20RANIA&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Visual%20Computing%20Pioneer%20|%20AI%20Enthusiast%20|%203D%20Graphics%20Specialist&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=DERRICHE%20RANIA&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Visual%20Computing%20Pioneer%20|%20AI%20Enthusiast%20|%20UI/UX%20Design&descSize=18&descAlignY=55" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B00FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Creative+Technology+Architect;AI+%26+Visual+Computing+Specialist;Building+The+Future+with+Code" alt="Typing SVG" /></a>
@@ -191,4 +191,3 @@ const Rania = {
 <sub>⚡ Powered by passion and caffeine ☕ | Last updated: October 2025</sub>
 
 </div>
-
