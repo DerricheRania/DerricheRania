@@ -10,8 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VISUAL%20COMPUTING-Expert-8B00FF?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Specialist-00D4FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/3D%20GRAPHICS-Professional-FF1493?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/FULL%20STACK-Developer-8B00FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX%20Design-FF1493?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
 <!-- Social Stats -->
