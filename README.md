@@ -29,7 +29,7 @@
   <a href="https://discord.gg/rania.derriche">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/Vixen-77">
+  <a href="https://github.com/rania.derriche">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
