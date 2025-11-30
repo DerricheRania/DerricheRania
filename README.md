@@ -16,7 +16,7 @@
 <!-- Social Stats -->
 <p align="center">
   <a href="https://github.com/DerricheRania?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vixen-77?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/DerricheRania?label=Followers&style=social" />
   </a>
   <a href="https://github.com/DerricheRania?tab=repositories">
     <img src="https://img.shields.io/badge/Total%20Stars-⭐-yellow?style=social" />
@@ -26,7 +26,7 @@
 
 <!-- Connect Badges -->
 <p align="center">
-  <a href="https://discord.gg/rania.derriche">
+  <a href="https://discord.gg/org_nina">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/rania.derriche">
